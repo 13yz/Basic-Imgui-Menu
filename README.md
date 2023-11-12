@@ -1,10 +1,8 @@
-Feel Free to use it for non profit.
-For any type of support: 
+Basic Imgui Menu
 
-Discord: mat3e
+Still Under Development
 
-If you want to use it for your p2c then send me a message in discord.
+Feel free to use it.
 
-
-![image](https://github.com/13yz/Basic-Imgui-Menu/assets/145342788/df64c55a-2ab3-48b3-ac4d-5543f0fb452a)
-
+SS:
+![image](https://user-images.githubusercontent.com/110454086/229347144-3fe636fc-010a-4fd5-a214-a7a7eff3b946.png)
